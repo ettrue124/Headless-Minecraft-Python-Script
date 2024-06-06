@@ -11,7 +11,7 @@ Contents
 
 Install Java: Ensure that you have Java installed on your machine. You can download it from here: https://www.oracle.com/java/technologies/downloads/#java21
 
-Download HeadlessMC:
+Download HeadlessMC: You can download it from here: https://github.com/ettrue124/headlessmc/releases/tag/main
 
 Download hmc-specifics jar for your mod version and put it in the mods folder. You can download it from here: https://github.com/3arthqu4ke/hmc-specifics/releases
 
