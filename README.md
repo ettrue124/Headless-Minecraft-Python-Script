@@ -21,11 +21,10 @@ Clone this repository:
     cd <repository_directory>
 
 ## Running Project
-### Login in with Minecraft Account
 Launch the headless client to download versions or login:
 
     java -jar headlessmc-launcher-1.9.5.jar
-Then Login with Microsoft Account
+Then Login with Microsoft Account:
     
     login <email@gmail.com>
 To download minecraft/fabric/neoforge/forge run:
