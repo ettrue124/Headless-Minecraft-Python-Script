@@ -16,8 +16,21 @@ Download HeadlessMC:
 Install Python: Ensure that you have Python installed on your machine. You can download it from here: https://www.python.org/downloads/
 
 ## Running Project
+### Login in with Minecraft Account
+Launch the headless client:
 
+    java -jar headlessmc-launcher-1.9.5.jar
+Then Login with Microsoft Account
+    
+    login <email@gmail.com>
+To download minecraft/fabric/neoforge/forge run:
 
+    download <Minecraft Version>
+    fabric <Version>
+    forge <Version>
+    
+    
+    
 Run the Python Script:
 
     python main.py -config <Minecraft Directory Path> -name <Minecraft Offline Username> -version <Minecraft Version> -playername <Minecraft Player Name> -ip <Minecraft Server IP Address> <Minecraft Server Port>
