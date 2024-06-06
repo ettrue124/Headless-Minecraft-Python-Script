@@ -43,9 +43,9 @@ Launch the headless client to download versions or login:
 Replace the placeholders with actual values:
 
     <Minecraft Directory Path>: Path to your Minecraft installation directory.
-    <Minecraft Offline Username>: The offline username you want to use.
+    <Minecraft Offline Username>: The offline username you want to use. Leave blank to use online mode.
     <Minecraft Version>: The Minecraft version you want to use (e.g., 1.19.4).
-    <Minecraft Player Name>: The name of the player.
+    <Minecraft Player Name>: The name of the player that can control the bot.
     <Minecraft Server IP Address>: The IP address of the Minecraft server.
     <Minecraft Server Port>: The port number of the Minecraft server.
 
