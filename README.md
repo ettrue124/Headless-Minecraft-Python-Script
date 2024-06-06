@@ -51,7 +51,7 @@ Replace the placeholders with actual values:
 
 Example:
 
-    python main.py -config /path/to/minecraft/directory -name OfflineUsername -version 1.19.4 -playername Player123 -ip 192.168.1.1 25565
+    python main.py -config C:\Users\Name\AppData\Roaming\.minecraft -name Bot -version fabric-loader-0.15.10-1.20.4 -playername Player123 -ip mc.hypixel.net
 
 Troubleshooting
 
