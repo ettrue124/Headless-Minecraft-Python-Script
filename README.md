@@ -17,7 +17,7 @@ Install Python: Ensure that you have Python installed on your machine. You can d
 
 ## Running Project
 ### Login in with Minecraft Account
-Launch the headless client:
+Launch the headless client to download versions or login:
 
     java -jar headlessmc-launcher-1.9.5.jar
 Then Login with Microsoft Account
