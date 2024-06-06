@@ -17,7 +17,7 @@ Install Python: Ensure that you have Python installed on your machine. You can d
 
 Clone this repository:
 
-    git clone <repository_url>
+    git clone https://github.com/ettrue124/Headless-Minecraft-Python-Script
     cd <repository_directory>
 
 ## Running Project
