@@ -60,7 +60,8 @@ You cannot connect to LAN servers using this script offline unless you use the L
 
     Ensure the Minecraft directory path is correct.
     Verify that you have the correct IP address and port number for the Minecraft server.
-    
+## Special thanks to the headlessmc project for headlessmc launcher:
+https://github.com/3arthqu4ke/headlessmc
 ## License
 
 This project is licensed under the MIT License.
