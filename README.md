@@ -52,12 +52,14 @@ Replace the placeholders with actual values:
 Example:
 
     python main.py -config C:\Users\Name\AppData\Roaming\.minecraft -name Bot -version fabric-loader-0.15.10-1.20.4 -playername Player123 -ip mc.hypixel.net
+## Note
 
-Troubleshooting
+You cannot connect to LAN servers using this script offline unless you use the LAN World Plug-n-Play mod and set it to offline mod. You can download it from here: https://modrinth.com/mod/mcwifipnp
+## Troubleshooting
 
     Ensure the Minecraft directory path is correct.
     Verify that you have the correct IP address and port number for the Minecraft server.
-    Check for any errors in the script execution and refer to error messages for guidance.
+    
 ## License
 
 This project is licensed under the MIT License.
