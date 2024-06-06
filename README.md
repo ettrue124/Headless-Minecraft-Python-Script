@@ -15,6 +15,11 @@ Download HeadlessMC:
 
 Install Python: Ensure that you have Python installed on your machine. You can download it from here: https://www.python.org/downloads/
 
+Clone this repository:
+
+    git clone <repository_url>
+    cd <repository_directory>
+
 ## Running Project
 ### Login in with Minecraft Account
 Launch the headless client to download versions or login:
