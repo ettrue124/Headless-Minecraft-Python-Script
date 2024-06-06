@@ -1,7 +1,8 @@
 # Headless Minecraft Python Script
 
 This project allows you to run a headless instance of Minecraft, connect it to a server, and interact with it through a Python script. The project uses HeadlessMC and a custom Python script to automate tasks within Minecraft.
-Contents
+
+## Contents
 
     HeadlessMC: Directory containing HeadlessMC resources.
     headlessmc-launcher-1.9.5.jar: The HeadlessMC launcher JAR file.
