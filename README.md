@@ -58,5 +58,6 @@ Troubleshooting
     Ensure the Minecraft directory path is correct.
     Verify that you have the correct IP address and port number for the Minecraft server.
     Check for any errors in the script execution and refer to error messages for guidance.
+## License
 
 This project is licensed under the MIT License.
