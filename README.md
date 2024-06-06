@@ -24,10 +24,10 @@ Clone this repository:
 Launch the headless client to download versions or login:
 
     java -jar headlessmc-launcher-1.9.5.jar
-Then Login with Microsoft Account:
+### Then Login with Microsoft Account:
     
     login <email@gmail.com>
-To download minecraft/fabric/neoforge/forge run:
+### To download minecraft/fabric/neoforge/forge run:
 
     download <Minecraft Version>
     fabric <Version>
@@ -36,8 +36,27 @@ To download minecraft/fabric/neoforge/forge run:
     
     
     
-Run the Python Script:
+### To run the script, use the following command:
 
     python main.py -config <Minecraft Directory Path> -name <Minecraft Offline Username> -version <Minecraft Version> -playername <Minecraft Player Name> -ip <Minecraft Server IP Address> <Minecraft Server Port>
+
+Replace the placeholders with actual values:
+
+    <Minecraft Directory Path>: Path to your Minecraft installation directory.
+    <Minecraft Offline Username>: The offline username you want to use.
+    <Minecraft Version>: The Minecraft version you want to use (e.g., 1.19.4).
+    <Minecraft Player Name>: The name of the player.
+    <Minecraft Server IP Address>: The IP address of the Minecraft server.
+    <Minecraft Server Port>: The port number of the Minecraft server.
+
+Example:
+
+    python main.py -config /path/to/minecraft/directory -name OfflineUsername -version 1.19.4 -playername Player123 -ip 192.168.1.1 25565
+
+Troubleshooting
+
+    Ensure the Minecraft directory path is correct.
+    Verify that you have the correct IP address and port number for the Minecraft server.
+    Check for any errors in the script execution and refer to error messages for guidance.
 
 This project is licensed under the MIT License.
