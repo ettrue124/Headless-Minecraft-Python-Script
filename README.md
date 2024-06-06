@@ -12,6 +12,7 @@ Contents
 Install Java: Ensure that you have Java installed on your machine. You can download it from here: https://www.oracle.com/java/technologies/downloads/#java21
 
 Download HeadlessMC:
+Download hmc-specifics jar for your mod version and put it in the mods folder. You can download it from here: https://github.com/3arthqu4ke/hmc-specifics/releases
 
 Install Python: Ensure that you have Python installed on your machine. You can download it from here: https://www.python.org/downloads/
 
@@ -32,7 +33,6 @@ Launch the headless client to download versions or login:
     download <Minecraft Version>
     fabric <Version>
     forge <Version>
-    neoforge <Version>
     
     
     
