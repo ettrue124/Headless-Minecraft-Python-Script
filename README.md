@@ -28,6 +28,7 @@ To download minecraft/fabric/neoforge/forge run:
     download <Minecraft Version>
     fabric <Version>
     forge <Version>
+    neoforge <Version>
     
     
     
