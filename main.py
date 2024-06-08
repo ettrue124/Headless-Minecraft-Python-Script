@@ -1,7 +1,7 @@
 import argparse
 import subprocess
 
-def Config():
+def config():
     # Define the path to the pre-defined configuration file
     pre_defined_file_path = r"HeadlessMC\config.properties"
 
@@ -99,7 +99,7 @@ def start_minecraft(username, ip, port, version, playername):
 
 if __name__ == "__main__":
     # Call the Config function to get the configuration values
-    Name, ip, port, version, playername = Config()
+    Name, ip, port, version, playername = config()
 
     # Start Minecraft with the obtained configuration values
     start_minecraft(Name, ip, port, version, playername)
